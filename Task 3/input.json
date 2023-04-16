@@ -1,0 +1,38 @@
+{
+  "targetWeight": 100,
+  "barWeight": 20,
+  "availableWeights": [
+    { "weight": 0.5 },
+    { "weight": 1 },
+    { "weight": 2.5 },
+    { "weight": 5 },
+    { "weight": 10 },
+    { "weight": 15 },
+    { "weight": 20 },
+    { "weight": 25 },
+    { "weight": 4.54 },
+    { "weight": 11.34 },
+    { "weight": 15.88 },
+    { "weight": 20.41 }
+  ],
+  "shirts": {
+    "S": 3,
+    "M": 3,
+    "L": 3,
+    "XL": 3,
+    "XXL": 3,
+    "XXXL": 3
+  },
+  "obj": {
+    "p1": ["S", "M"],
+    "p2": ["XXL"],
+    "p3": ["XXL", "XXXL"],
+    "p4": ["XXL"],
+    "p5": ["XL", "XXL"],
+    "p6": ["M", "L"],
+    "p7": ["L"],
+    "p8": ["L", "XL"],
+    "p9": ["XL"],
+    "p10": ["XXXL"]
+  }
+}

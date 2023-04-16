@@ -1,0 +1,34 @@
+{
+  "output1": {
+    "minWeight": "100.04",
+    "selectedWeights": [
+      {
+        "weight": 1
+      },
+      {
+        "weight": 5
+      },
+      {
+        "weight": 11.34
+      },
+      {
+        "weight": 11.34
+      },
+      {
+        "weight": 11.34
+      }
+    ]
+  },
+  "output2": {
+    "p1": "S",
+    "p2": "XXL",
+    "p3": "XXXL",
+    "p4": "XXL",
+    "p5": "XL",
+    "p6": "M",
+    "p7": "L",
+    "p8": "L",
+    "p9": "XL",
+    "p10": "XXXL"
+  }
+}
